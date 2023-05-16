@@ -1,0 +1,29 @@
+2023-05-16 14:10:17,086 =============================================================
+2023-05-16 14:10:17,086 =============================================================
+2023-05-16 14:10:17,086 Today is 2023-05-16 at 02:10 PM
+2023-05-16 14:10:17,101 This file is running on: nt Windows 10
+2023-05-16 14:10:17,101 The Python version is: 3.11.3
+2023-05-16 14:10:17,101 The active conda environment is:  None
+2023-05-16 14:10:17,101 The active pip environment is:    None
+2023-05-16 14:10:17,101 The active environment path is:   C:\Users\cjack\AppData\Local\Programs\Python\Python311
+2023-05-16 14:10:17,101 The current working directory is: C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-16 14:10:17,101 This source file is in:           C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-16 14:10:17,101 =============================================================
+2023-05-16 14:10:17,102 =============================================================
+2023-05-16 14:10:17,102 Explore some functions in the math module
+2023-05-16 14:10:17,102 math.comb(5,1) = 5
+2023-05-16 14:10:17,102 math.perm(5,1) = 5
+2023-05-16 14:10:17,102 math.comb(5,3) = 10
+2023-05-16 14:10:17,102 math.perm(5,3) = 60
+2023-05-16 14:10:17,102 math.pi = 3.141592653589793
+2023-05-16 14:10:17,102 math.degrees(2 * math.pi) = 360.0
+2023-05-16 14:10:17,102 math.radians(180)         = 3.141592653589793
+2023-05-16 14:10:17,102 
+2023-05-16 14:10:17,102 TRY: Call get_area_of_NBA_court() function with a different values.
+2023-05-16 14:10:17,102 get_area_of_NBA_court(100,50)
+2023-05-16 14:10:17,102 The area of an NBA sized court is 5000 units
+2023-05-16 14:10:17,102 get_area_of_NBA_court(75,60)
+2023-05-16 14:10:17,102 The area of an NBA sized court is 4500 units
+2023-05-16 14:10:17,102 get_area_of_NBA_court(55,30)
+2023-05-16 14:10:17,102 The area of an NBA sized court is 1650 units
+2023-05-16 14:10:17,102 
