@@ -1,29 +1,53 @@
-2023-05-16 14:10:17,086 =============================================================
-2023-05-16 14:10:17,086 =============================================================
-2023-05-16 14:10:17,086 Today is 2023-05-16 at 02:10 PM
-2023-05-16 14:10:17,101 This file is running on: nt Windows 10
-2023-05-16 14:10:17,101 The Python version is: 3.11.3
-2023-05-16 14:10:17,101 The active conda environment is:  None
-2023-05-16 14:10:17,101 The active pip environment is:    None
-2023-05-16 14:10:17,101 The active environment path is:   C:\Users\cjack\AppData\Local\Programs\Python\Python311
-2023-05-16 14:10:17,101 The current working directory is: C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
-2023-05-16 14:10:17,101 This source file is in:           C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
-2023-05-16 14:10:17,101 =============================================================
-2023-05-16 14:10:17,102 =============================================================
-2023-05-16 14:10:17,102 Explore some functions in the math module
-2023-05-16 14:10:17,102 math.comb(5,1) = 5
-2023-05-16 14:10:17,102 math.perm(5,1) = 5
-2023-05-16 14:10:17,102 math.comb(5,3) = 10
-2023-05-16 14:10:17,102 math.perm(5,3) = 60
-2023-05-16 14:10:17,102 math.pi = 3.141592653589793
-2023-05-16 14:10:17,102 math.degrees(2 * math.pi) = 360.0
-2023-05-16 14:10:17,102 math.radians(180)         = 3.141592653589793
-2023-05-16 14:10:17,102 
-2023-05-16 14:10:17,102 TRY: Call get_area_of_NBA_court() function with a different values.
-2023-05-16 14:10:17,102 get_area_of_NBA_court(100,50)
-2023-05-16 14:10:17,102 The area of an NBA sized court is 5000 units
-2023-05-16 14:10:17,102 get_area_of_NBA_court(75,60)
-2023-05-16 14:10:17,102 The area of an NBA sized court is 4500 units
-2023-05-16 14:10:17,102 get_area_of_NBA_court(55,30)
-2023-05-16 14:10:17,102 The area of an NBA sized court is 1650 units
-2023-05-16 14:10:17,102 
+2023-05-16 14:51:10,632 =============================================================
+2023-05-16 14:51:10,632 =============================================================
+2023-05-16 14:51:10,632 Today is 2023-05-16 at 02:51 PM
+2023-05-16 14:51:10,648 This file is running on: nt Windows 10
+2023-05-16 14:51:10,648 The Python version is: 3.11.3
+2023-05-16 14:51:10,648 The active conda environment is:  None
+2023-05-16 14:51:10,648 The active pip environment is:    None
+2023-05-16 14:51:10,648 The active environment path is:   C:\Users\cjack\AppData\Local\Programs\Python\Python311
+2023-05-16 14:51:10,648 The current working directory is: C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-16 14:51:10,648 This source file is in:           C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-16 14:51:10,648 =============================================================
+2023-05-16 14:51:10,648 =============================================================
+2023-05-16 14:51:10,648 Explore some functions in the math module
+2023-05-16 14:51:10,648 math.comb(5,1) = 5
+2023-05-16 14:51:10,648 math.perm(5,1) = 5
+2023-05-16 14:51:10,648 math.comb(5,3) = 10
+2023-05-16 14:51:10,648 math.perm(5,3) = 60
+2023-05-16 14:51:10,648 math.pi = 3.141592653589793
+2023-05-16 14:51:10,648 math.degrees(2 * math.pi) = 360.0
+2023-05-16 14:51:10,648 math.radians(180)         = 3.141592653589793
+2023-05-16 14:51:10,648 
+2023-05-16 14:51:10,648 TRY: Call get_area_of_NBA_court() function with a different values.
+2023-05-16 14:51:10,648 get_area_of_NBA_court(100,50)
+2023-05-16 14:51:10,648 The area of an NBA sized court is 5000 units
+2023-05-16 14:51:10,648 get_area_of_NBA_court(75,60)
+2023-05-16 14:51:10,648 The area of an NBA sized court is 4500 units
+2023-05-16 14:51:10,649 get_area_of_NBA_court(55,30)
+2023-05-16 14:51:10,649 The area of an NBA sized court is 1650 units
+2023-05-16 14:51:10,649 
+2023-05-16 14:51:10,649 TRY: Call get_total_points_of_starters() function with a different values.
+2023-05-16 14:51:10,649 get_total_points_of_starters(20,5,11,17,28)
+2023-05-16 14:51:10,649 The total points for the starters of an NBA team are 81.0
+2023-05-16 14:51:10,649 get_total_points_of_starters(5,18,33,12,5)
+2023-05-16 14:51:10,649 The total points for the starters of an NBA team are 73.0
+2023-05-16 14:51:10,649 get_total_points_of_starters(11,22,14,9,35)
+2023-05-16 14:51:10,649 The total points for the starters of an NBA team are 91.0
+2023-05-16 14:51:10,649 
+2023-05-16 14:51:10,649 TRY: Call get_average_over_five_games() function with a different values.
+2023-05-16 14:51:10,649 get_average_over_five_games(35,16,29,14,7)
+2023-05-16 14:51:10,649 The average points per game for the span of five games is 20.2
+2023-05-16 14:51:10,649 get_average_over_five_games(55,50,43,37,44)
+2023-05-16 14:51:10,649 The average points per game for the span of five games is 45.8
+2023-05-16 14:51:10,649 get_average_over_five_games(11,12,13,14,15)
+2023-05-16 14:51:10,649 The average points per game for the span of five games is 13.0
+2023-05-16 14:51:10,649 
+2023-05-16 14:51:10,649 TRY: Call get_height_of_player() function with a different values.
+2023-05-16 14:51:10,649 get_height_of_player(6, 5)
+2023-05-16 14:51:10,649 The height of the given player in inches is 77
+2023-05-16 14:51:10,649 get_height_of_player(7, 2)
+2023-05-16 14:51:10,649 The height of the given player in inches is 86
+2023-05-16 14:51:10,649 get_height_of_player(5, 10)
+2023-05-16 14:51:10,649 The height of the given player in inches is 70
+2023-05-16 14:51:10,649 
