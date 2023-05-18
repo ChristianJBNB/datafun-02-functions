@@ -1,0 +1,33 @@
+2023-05-18 14:40:45,774 =============================================================
+2023-05-18 14:40:45,774 =============================================================
+2023-05-18 14:40:45,774 Today is 2023-05-18 at 02:40 PM
+2023-05-18 14:40:45,790 This file is running on: nt Windows 10
+2023-05-18 14:40:45,790 The Python version is: 3.11.3
+2023-05-18 14:40:45,790 The active conda environment is:  None
+2023-05-18 14:40:45,790 The active pip environment is:    None
+2023-05-18 14:40:45,790 The active environment path is:   C:\Users\cjack\AppData\Local\Programs\Python\Python311
+2023-05-18 14:40:45,790 The current working directory is: C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-18 14:40:45,790 This source file is in:           C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-18 14:40:45,790 =============================================================
+2023-05-18 14:40:45,790 =============================================================
+2023-05-18 14:40:45,790 Created: NumericNBASeries with name=Lebron James, units=Pts, team=Lakers, and 6 data points: [23, 44, 31, 37, 34, 45]
+2023-05-18 14:40:45,790 Created: NumericNBASeries with name=Zion Williamson, units=Pts, team=Pelicans, and 6 data points: [17, 32, 40, 21, 26, 28]
+2023-05-18 14:40:45,790 Created: NumericNBASeries with name=Donovan Mitchell, units=Pts, team=Cavaliers, and 8 data points: [26, 27, 28, 29, 30, 31, 32, 33]
+2023-05-18 14:40:45,790 NumericNBASeries with name=Lebron James, units=Pts, team=Lakers, and 6 data points: [23, 44, 31, 37, 34, 45]
+2023-05-18 14:40:45,790 Count: 6
+2023-05-18 14:40:45,790 Sum: 214
+2023-05-18 14:40:45,790 Mean: 35.666666666666664
+2023-05-18 14:40:45,790 Median: 35.5
+2023-05-18 14:40:45,790 ------------------
+2023-05-18 14:40:45,790 NumericNBASeries with name=Zion Williamson, units=Pts, team=Pelicans, and 6 data points: [17, 32, 40, 21, 26, 28]
+2023-05-18 14:40:45,790 Count: 6
+2023-05-18 14:40:45,790 Sum: 164
+2023-05-18 14:40:45,790 Mean: 27.333333333333332
+2023-05-18 14:40:45,790 Median: 27.0
+2023-05-18 14:40:45,790 ------------------
+2023-05-18 14:40:45,791 NumericNBASeries with name=Donovan Mitchell, units=Pts, team=Cavaliers, and 8 data points: [26, 27, 28, 29, 30, 31, 32, 33]
+2023-05-18 14:40:45,791 Count: 8
+2023-05-18 14:40:45,791 Sum: 236
+2023-05-18 14:40:45,791 Mean: 29.5
+2023-05-18 14:40:45,791 Median: 29.5
+2023-05-18 14:40:45,791 ------------------
