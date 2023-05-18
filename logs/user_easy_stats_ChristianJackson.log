@@ -1,0 +1,39 @@
+2023-05-18 14:19:47,677 =============================================================
+2023-05-18 14:19:47,677 =============================================================
+2023-05-18 14:19:47,677 Today is 2023-05-18 at 02:19 PM
+2023-05-18 14:19:47,689 This file is running on: nt Windows 10
+2023-05-18 14:19:47,689 The Python version is: 3.11.3
+2023-05-18 14:19:47,689 The active conda environment is:  None
+2023-05-18 14:19:47,689 The active pip environment is:    None
+2023-05-18 14:19:47,689 The active environment path is:   C:\Users\cjack\AppData\Local\Programs\Python\Python311
+2023-05-18 14:19:47,689 The current working directory is: C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-18 14:19:47,689 This source file is in:           C:\Users\cjack\Documents\GitHub\data-analytics-fund\datafun-02-functions
+2023-05-18 14:19:47,689 =============================================================
+2023-05-18 14:19:47,689 =============================================================
+2023-05-18 14:19:47,689 Number of points scored on different days by a NBA team =  [120, 135, 142, 89, 161, 119, 92, 145, 105, 107, 121, 132, 151]
+2023-05-18 14:19:47,689 The mean of points scored is 124.54
+2023-05-18 14:19:47,689 The median of points scored is 121.00
+2023-05-18 14:19:47,689 The mode of points scored is 120.00
+2023-05-18 14:19:47,689 The variance of points scored is 499.44
+2023-05-18 14:19:47,689 The standard deviation of points scored is 22.35
+2023-05-18 14:19:47,689 The smallest number of points scored is 89.00
+2023-05-18 14:19:47,689 The largest number of points scored is 161.00
+2023-05-18 14:19:47,689 The range in the number of points scored is 89.00 - 161.00
+2023-05-18 14:19:47,689 Correlation requires Python version 3.10 or greater.
+2023-05-18 14:19:47,689 Your version is 3.11
+2023-05-18 14:19:47,689 Here's some time series data about how many points an NBA team could score on a given day:
+2023-05-18 14:19:47,689 numofgames:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+2023-05-18 14:19:47,689 pts_scored:[120, 135, 142, 89, 161, 119, 92, 145, 105, 107, 121, 132, 151]
+2023-05-18 14:19:47,689 correlation between numofgames and numofgames = 1.00
+2023-05-18 14:19:47,689 correlation between numofgames and pts_scored = 0.05
+2023-05-18 14:19:47,689 Here's some bivariant data (2 variables, together):
+2023-05-18 14:19:47,689 x:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+2023-05-18 14:19:47,689 y:[120, 135, 142, 89, 161, 119, 92, 145, 105, 107, 121, 132, 151]
+2023-05-18 14:19:47,689 Calculate the slope and intercept of a best fit straight line:
+2023-05-18 14:19:47,689    slope = 0.30
+2023-05-18 14:19:47,689    intercept = 122.42
+2023-05-18 14:19:47,689 Let's use our best fit line to PREDICT a future value.
+2023-05-18 14:19:47,695    At future x = 300,
+2023-05-18 14:19:47,695    we predict the value of y will be 213.
+2023-05-18 14:19:47,695 How'd we do? Does this make sense given the data?
+2023-05-18 14:19:47,695 Remember to close the app. Control c (or d or z maybe) to close it.
